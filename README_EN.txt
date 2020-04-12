@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2020.02.10
+* 2020.04.12
 * tacklelib--3dparty--p7client
 
 1. DESCRIPTION
@@ -90,13 +90,13 @@ https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
 3. REPOSITORIES
 -------------------------------------------------------------------------------
 Primary:
-  * https://sf.net/p/tacklelib/3dparty--p7client/HEAD/tree/trunk
-    https://svn.code.sf.net/p/tacklelib/3dparty--p7client/trunk
+  * https://sf.net/p/tacklelib/3dparty--p7client/HEAD/tree/branches
+    https://svn.code.sf.net/p/tacklelib/3dparty--p7client/branches
 First mirror:
-  * https://github.com/andry81/tacklelib--3dparty--p7client/tree/trunk
+  * https://github.com/andry81/tacklelib--3dparty--p7client/tree/branches
     https://github.com/andry81/tacklelib--3dparty--p7client.git
 Second mirror:
-  * https://bitbucket.org/andry81/tacklelib-3dparty-p7client/src/trunk
+  * https://bitbucket.org/andry81/tacklelib-3dparty-p7client/src/branches
     https://bitbucket.org/andry81/tacklelib-3dparty-p7client.git
 
 -------------------------------------------------------------------------------

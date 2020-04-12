@@ -1,4 +1,7 @@
 2020.04.12:
+* changed: changes store retarget to branches instead of the trunk to be able to apply changes to multiple versions
+
+2020.04.12:
 * new: branch with the library changes at version 5.5 (2020.03.09) from http://baical.net/downloads.html (http://baical.net/p7changelog.txt )
 
 2020.02.21:
